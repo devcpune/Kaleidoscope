@@ -1,0 +1,3 @@
+[submodule "kaleidoscope"]
+	path = kaleidoscope
+	url = https://github.com/ADITYA1720/kaleidoscope.git
